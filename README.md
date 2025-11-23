@@ -22,9 +22,15 @@
 
 ## Statistik GitHub
 - Bahasa pemrograman utama:
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqSr&layout=compact)
+
+
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqSr&layout=compact)
 - Statistik kontribusi:
-  ![Stats](https://github-readme-stats.vercel.app/api?username=FaiqSr&show_icons=true)
+
+
+
+- ![Stats](https://github-readme-stats.vercel.app/api?username=FaiqSr&show_icons=true)
 
 ---
 
