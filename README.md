@@ -53,7 +53,7 @@
 ---
 
 ## 📬 Cara Menghubungi
-- **Email:** [your.email@example.com](mailto:faiqsr13@gmail.com)
+- **Email:** [faiqsr13@gmail.com](mailto:faiqsr13@gmail.com)
 - **LinkedIn:** [Faiq Subhi Ramadlan](https://id.linkedin.com/in/faiq-subhi-ramadlan-9b91b1317/)
 
 ---
