@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Faiq Sr 👋</h1>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/-Faiq%20Sr%20-%23121212?style=flat&logo=github&logoColor=white">
-  <a href="https://komarev.com/gh-badge/spectre/FaiqSr" target="_blank">
-    <img src="https://komarev.com/gh-badge/spectre/FaiqSr" alt="Profile Views"/>
-  </a>
-  <img align="center" src="https://img.shields.io/badge/Fajrul%20Craft%20-%23000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Crafted with passion">
-</p>
-
+ </p>
 <p align="center"><i>Selamat datang di profil GitHub saya.</i></p>
 
 <p align="center">
