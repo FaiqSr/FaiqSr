@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  Saya seorang <strong>Mahasiswa Teknik Komputer</strong> di IPB University dengan minat kuat dalam <strong>robotika, sistem IoT, kecerdasan buatan</strong>, dan pengembangan web full-stack.<br/>
-  Saat ini sedang magang di <strong>BRIN</strong> fokus pada sistem tactile intelligence berbasis edge AI.
+  Saya seorang <strong>Mahasiswa Teknik Komputer</strong> di IPB University dengan minat kuat dalam <strong>robotika, sistem IoT, kecerdasan buatan</strong>, dan pengembangan web full-stack.
 </p>
 
 ---
